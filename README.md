@@ -38,7 +38,9 @@ To ensure the model's performance, random samples were selected for predictions 
 The model was able to achieve an outstanding accuracy of 96.54% on the test set.
 
 ## This was the second project of the "Udacity Machine Learning Fundamentals Nandegree" offered by AWS as part of the "AWS AI & ML scholarship"
-Confirmation  link: [link]
+Confirmation  link: [confirm.udacity.com/e/c23fa740-f6c0-11ee-b536-9f29200da7b5]
 ## License
+
+
 
 This project is licensed under the [MIT License](LICENSE).
